@@ -6,4 +6,4 @@ app = Flask(__name__)
 def home():
     return "Hello DevOps"
 
-app.run(port=5001)
+app.run(port=5000)
